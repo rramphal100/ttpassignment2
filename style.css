@@ -12,6 +12,11 @@
 	list-style: none;
 }
 
+#social a:hover{
+	font-weight: bolder;
+	color: #f0f;
+}
+
 #social a{
 	color: #08F;
 	text-decoration: none;
@@ -36,6 +41,11 @@ body{
 #menu li{
 	display: inline;
 	list-style: none;
+}
+
+#menu a:hover{
+	font-weight: bolder;
+	color: #ff0;
 }
 
 #menu a{
@@ -127,6 +137,10 @@ h3{
 	border-width: 5px;
 }
 
+#img1:hover{
+	border-color: #00f;
+}
+
 #img2{
 	background-image: url(http://static3.businessinsider.com/image/55c3b021371d2212008bd8da-1190-625/this-is-why-teslas-sculptural-work-of-art-back-seat-in-the-model-x-is-so-tricky.jpg);
 	float:left;
@@ -136,6 +150,9 @@ h3{
 	border-style: solid;
 	border-color: #222;
 	border-width: 5px;
+}
+#img2:hover{
+	border-color: #00f;
 }
 
 #img3{
@@ -149,6 +166,10 @@ h3{
 	border-width: 5px;
 }
 
+#img3:hover{
+	border-color: #00f;
+}
+
 #img4{
 	background-image: url(https://ingenieurversteher.de/wp-content/uploads/2015/11/TESLA-live_quelle_TESLA_motors_optimiert.jpg);
 	float:left;
@@ -158,6 +179,10 @@ h3{
 	border-style: solid;
 	border-color: #222;
 	border-width: 5px;
+}
+
+#img4:hover{
+	border-color: #00f;
 }
 
 #about{
