@@ -115,3 +115,47 @@ h3{
 	font-family: sans-serif;
 	text-align: center;
 }
+
+#img1{
+	background-image: url(http://carsmustsee.com/wp-content/uploads/2013-Tesla-Model-S-front-three-quarter-1-400x200.jpg);
+	float:left;
+	background-size: 100%;
+	width: 400px;
+	height: 200px;
+	border-style: solid;
+	border-color: #222;
+	border-width: 5px;
+}
+
+#img2{
+	background-image: url(http://static3.businessinsider.com/image/55c3b021371d2212008bd8da-1190-625/this-is-why-teslas-sculptural-work-of-art-back-seat-in-the-model-x-is-so-tricky.jpg);
+	float:left;
+	background-size: 100%;
+	width: 400px;
+	height: 200px;
+	border-style: solid;
+	border-color: #222;
+	border-width: 5px;
+}
+
+#img3{
+	background-image: url(http://cdn.newsserve.net/i/20160331/3191-You-ll-have-to-pre-order-your-Tesla.jpg);
+	float:left;
+	background-size: 100%;
+	width: 400px;
+	height: 200px;
+	border-style: solid;
+	border-color: #222;
+	border-width: 5px;
+}
+
+#img4{
+	background-image: url(https://ingenieurversteher.de/wp-content/uploads/2015/11/TESLA-live_quelle_TESLA_motors_optimiert.jpg);
+	float:left;
+	background-size: 100%;
+	width: 400px;
+	height: 200px;
+	border-style: solid;
+	border-color: #222;
+	border-width: 5px;
+}
