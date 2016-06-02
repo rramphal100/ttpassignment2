@@ -159,3 +159,12 @@ h3{
 	border-color: #222;
 	border-width: 5px;
 }
+
+#about{
+	color: #fff;
+}
+
+body{
+	background-image: url(http://blogs-images.forbes.com/brookecrothers/files/2015/09/model-x-invite.jpg);
+	background-size: 100%;
+}
