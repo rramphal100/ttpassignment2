@@ -1,9 +1,15 @@
+*{-webkit-padding-start: 0px;}
+
 #socialDiv{
 	width: 50%;
 	float: left;
 	border: 10px;
 	border-color: #fff;
+}
+
+#social li{
 	display: inline;
+	list-style: none;
 }
 
 #social a{
@@ -11,23 +17,25 @@
 	text-decoration: none;
 	padding: 10px;
 	font-family: sans-serif;
+	display: inline;
 }
 
 body{
 	background-color: #000;
-	background-size: 100%;
-}
-
-li{
-	display:inline;
-	list-style: none;
 }
 
 #menuDiv{
 	float: right;
 	display: inline;
-	width: 50%;
+	width: auto;
 	text-align: right;
+	border-style: solid;
+	border-color: #fff;
+}
+
+#menu li{
+	display: inline;
+	list-style: none;
 }
 
 #menu a{
@@ -38,6 +46,7 @@ li{
 	text-transform: uppercase;
 	font-size: 18px;
 	font-weight: bold;
+	display: inline;
 }
 
 #title-line{
@@ -46,15 +55,63 @@ li{
 	height: 100%;
 }
 
+header{
+	height: 100%;
+	margin: auto;
+}
+
 footer{
 	color: #fff;
 	text-align: center;
+	width: 100%;
+	margin: auto;
+	padding-top: 50px;
+	clear: left;
 }
 
-#main{
-	color: #fff;
+#menubox{
+	height: 100%;
+	margin-bottom: 85px;
+	clear: both;
 }
 
 #main div{
-	width: 33%;
+	width: 32%;
+	color: #fff;
+	float: left;
+	border-style: solid;
+	border-color: #fff;
+	margin-top: 60px;
+}
+
+#left{
+	padding-bottom: 42px;
+}
+
+#center{
+	text-align: center;
+	padding-bottom: 28px;
+}
+
+#models li{
+	display: block;
+	text-align: center;
+	padding-top: 10px;
+	list-style: none;
+	text-decoration: none;
+}
+
+#dealers{
+	list-style: none;
+	text-align: center;
+}
+
+#dealers li{
+	padding-top: 10px;
+}
+
+h3{
+	text-transform: uppercase;
+	font-family: sans-serif;
+	text-align: center;
 }
