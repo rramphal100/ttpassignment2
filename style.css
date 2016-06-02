@@ -1,0 +1,60 @@
+#socialDiv{
+	width: 50%;
+	float: left;
+	border: 10px;
+	border-color: #fff;
+	display: inline;
+}
+
+#social a{
+	color: #08F;
+	text-decoration: none;
+	padding: 10px;
+	font-family: sans-serif;
+}
+
+body{
+	background-color: #000;
+	background-size: 100%;
+}
+
+li{
+	display:inline;
+	list-style: none;
+}
+
+#menuDiv{
+	float: right;
+	display: inline;
+	width: 50%;
+	text-align: right;
+}
+
+#menu a{
+	color: #0F5;
+	text-decoration: none;
+	padding: 10px;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#title-line{
+	color: silver;
+	text-align: center;
+	height: 100%;
+}
+
+footer{
+	color: #fff;
+	text-align: center;
+}
+
+#main{
+	color: #fff;
+}
+
+#main div{
+	width: 33%;
+}
